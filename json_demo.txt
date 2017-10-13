@@ -1,0 +1,13 @@
+{
+	"name": "Navpreet",
+	"age":40,
+	"car":"Audi R8",
+	"pets":[
+		{ "animal":"dog", "name":"Atlas" },
+		{ "animal":"cat", "name":"Boots" },
+		{ "animal":"hamster", "name":"Lightning" }
+
+	]
+}
+
+

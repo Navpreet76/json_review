@@ -1,0 +1,18 @@
+[
+{
+"display": "Google Search",
+"url": "https://www.google.com"
+},
+{
+"display": "Amazon",
+"url": "https://www.amazon.com"
+},
+{
+"display": "Youtube",
+"url": "https://www.youtube.com"	
+},
+{
+"display": "Reddit",
+"url": "https://www.reddit.com"
+}
+]
